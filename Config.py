@@ -4,12 +4,12 @@ class Config(object):
     API_ID = int(os.environ.get("APP_ID", "28117970"))
     API_HASH = os.environ.get("API_HASH", "2bbe41e0345f95848c36b726954b6732")
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "5834280033:AAHT9x1Bd99bn8ibPFZ-lXoy5q8IkJgtmBQ")
-    STRING_SESSION = os.environ.get("STRING_SESSION", "BACqpG3Y2cyE6MG3ctdb51pVrv_G2TuLDnw4Z6zH1bIOwgEIVlq3o1pxnp7ODxUwccxwSNUahsdrJVKtpOzv2aLLHMan8wvaE7vDygMlP4VjVFSTA1gLdich_Skxz8I3ntJ6id6H-hrkEeZL4RG_IWQXD966jQkj9O6G7TvGHbyyi7auYJrAos_qN-orFMO8ZlvEairb-cBbI4iHH8gco4OR-m_p501O9nPZlJJj93krzcnD-FygRxddCLnDZ6NyedDIbJs_6dafROCfqM8vmrOz1QzewvMAojdFP7LKIPAaLlqvn9WJbyp9OAc2Ql9zLhkA847H4ZlCfqoSaPVMni_DAAAAAUkg2OQA")
+    STRING_SESSION = os.environ.get("STRING_SESSION", "1BJWap1wBu7tFTvRXwcUJ8cDP1LLrKTfHwibHuCvbQRNwrXTwb0yoASIWxRVaYxeol3s_Ok9MYhRZcfrhWh7hMpktXIGibK7ymEyxVBfBWw4F5g7hoB7xwnjYxYtZt0jaWf6H3n2F3zFxZtB5gzQA-wFNtJ4HsQSIc8rV0L3z6fQm9KVBcjJIUlt186Lz69uSasuEAu2tHihkzqqvSAgKdSBtk0lMdc84kIhuD1tAnQxYOWhddEZohqU6e7wQkOv_BvVIKhnMTuonluTUHRYR2Xtcy8OAKiIKMz0KYYj4Ksv_gW2jR69YcAlJsM8ixPC2ad2dB8gPs2pIkLIdRsy6SXGI1hh1fbk=")
     MANAGEMENT_MODE = os.environ.get("MANAGEMENT_MODE", None)
     HEROKU_MODE = os.environ.get("HEROKU_MODE", None)
     BOT_USERNAME = os.environ.get("BOT_USERNAME", "azao1_bot")
-    SUPPORT = os.environ.get("SUPPORT", "RQ_V0") # Your Support
-    CHANNEL = os.environ.get("CHANNEL", "DL_R3") # Your Channel
+    SUPPORT = os.environ.get("SUPPORT", "SI_MI1") # Your Support
+    CHANNEL = os.environ.get("CHANNEL", "SI_M1I") # Your Channel
     START_IMG = os.environ.get("START_IMG", "https://edit.telegra.ph/auth/ddADHFgjnyQvlzFvbXlqi4PisR2SbocoBM1hrfAOMp")
     CMD_IMG = os.environ.get("CMD_IMG", "https://edit.telegra.ph/auth/ddADHFgjnyQvlzFvbXlqi4PisR2SbocoBM1hrfAOMp")
     ASSISTANT_ID = int(os.environ.get("ASSISTANT_ID", "830359032")) # telegram I'd not Username
